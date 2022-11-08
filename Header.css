@@ -1,7 +1,7 @@
-/* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
   padding: 5px 5px;
+  margin-bottom: 15px;
 }
 
 .header-right {
@@ -18,5 +18,6 @@
   line-height: 10px;
   border-radius: 20px;
 }
+
 
 
